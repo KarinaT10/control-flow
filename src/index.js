@@ -3,7 +3,7 @@
  * @param number1: {Number}
  * @param number2: {Number}
  * @param number3: {Number}
- * @returns {Array}
+ * @returns {Number}
  */
 module.exports.getMin = function getMin(number1, number2, number3) {
     // Your implementation here
