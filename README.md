@@ -2,7 +2,7 @@
 
 ## Tasks
 
-### 
+### Min
 Your code must return min between 2 numbers
 For example:
 ```js
